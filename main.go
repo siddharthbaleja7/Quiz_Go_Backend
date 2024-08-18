@@ -47,7 +47,7 @@ func main() {
     questions = []Question{
         {
             QuestionText: "Is this a seven wonders of the world?",
-            ImageUrl:     "assets/images/Taj_Mahal_(Edited).jpg",
+            ImageUrl:     "https://i.natgeofe.com/n/8eba070d-14e5-4d07-8bab-9db774029063/93080_2x1.jpg",
             Answer: []Answer{
                 {Text: "Yes", Answer: true},
                 {Text: "No", Answer: false},
